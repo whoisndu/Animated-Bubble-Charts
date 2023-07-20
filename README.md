@@ -25,6 +25,7 @@ Animated Bubble Maps is a data visualization project that showcases the power of
 
 ## How to Use
 Install Dependencies: Install the required dependencies by running the following command:
+
 ```pip install plotly pandas```
 
 1. Prepare the Data: Clean your data and correctly format all numbers. Ensure you have a CSV file containing the GDP data for each country over multiple years. The dataset was retrieved from Kaggle here - https://www.kaggle.com/datasets/gwenaelmouthuy/gdp-per-capita-between-1960-and-2021
